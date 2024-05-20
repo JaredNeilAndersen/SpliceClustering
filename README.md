@@ -1,1 +1,2 @@
-# SpliceClustering
+# SpliceCluster
+
